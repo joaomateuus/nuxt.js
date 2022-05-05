@@ -1,7 +1,7 @@
 # Pages and routing
 ## As we already saw, when I create a .vue file in the pages folder it became automatically a route, the same is for folders.
 
-## The same example of the last topic :
+## The same example of the last topic : 
 ````
 pages/                    
 --| user/
